@@ -1,0 +1,7 @@
+x = float(input("Enter a real number:"))
+y = round(x)
+if y%2 == 0:
+    print("Even")
+else: 
+    print("Odd")
+   
